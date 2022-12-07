@@ -13,6 +13,7 @@
   },
   "author": "Elschnagoo",
   "dependencies": {
+    "@grandlinex/core": "^0.26.0"
   },
   "devDependencies": {
     "@types/node": "16.11.17",
@@ -33,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-     "url": "https://github.com/Elschnagoo/adventofcode-2022.git"
+    "url": "https://github.com/Elschnagoo/adventofcode-2022.git"
   }
 }
